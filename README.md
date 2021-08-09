@@ -31,12 +31,18 @@ https://user-images.githubusercontent.com/85820553/128772859-c0fd421b-82e4-4756-
 
 
 
-- [Try it with interface](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=251f8d4b-ebb1-47f7-920e-7efad431c16c&serviceInstanceID=d321cd29-85a4-435b-be63-02ac3d53e546):
 
 
 
 
 
-https://user-images.githubusercontent.com/85820553/128772859-c0fd421b-82e4-4756-a4ee-addd83b8dcec.mp4
+- [Try it with interface](https://ahmadsamiii.github.io/ChatbotusingIBMWatsonAssistant/):
+
+
+
+
+
+https://user-images.githubusercontent.com/85820553/128777084-11b0345f-b44e-46a6-9786-f9586c33f306.mp4
+
 
 
