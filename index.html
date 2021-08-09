@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    
+    <title>Robot Arm Motors</title>
+
+
+
+    <link rel="stylesheet" href="RoboticsArmInterfaceControlPanel-main.css">
+    <script src="RoboticsArmInterfaceControlPanel-main.js"></script>
+</head>
+
+<body>
+        
+
+    
+        <h1> Robotics Arm Control Panel</h1>
+
+    <p>Arm-1</p>
+   
+
+    <div class="range">
+
+
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">180</div>
+        </div>
+    </div>
+
+    <p>Arm-2</p>
+
+    <div class="range">
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">
+                0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">
+                180</div>
+        </div>
+    </div>
+
+    <p>Arm-3</p>
+
+    <div class="range">
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">
+                0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">
+                180</div>
+        </div>
+    </div>
+
+    <p>Arm-4</p>
+
+    <div class="range">
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">
+                0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">
+                180</div>
+        </div>
+    </div>
+
+    <p>Arm-5</p>
+
+    <div class="range">
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">
+                0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">
+                180</div>
+        </div>
+    </div>
+
+
+    <p>Arm-6</p>
+
+    <div class="range">
+        <div class="sliderValue">
+            <span>180</span>
+        </div>
+        <div class="field">
+            <div class="value left">
+                0</div>
+            <input type="range" min="0" max="180" value="90" >
+            <div class="value right">
+                180</div>
+        </div>
+    </div>
+    <br>
+    <button type="button" class=btn> Save</button>
+    <br>
+    <button type="button" class="btn"> Run</button>
+
+    <script>
+        $(document).ready(function () {
+
+            $('input[type="range"]').on('input', function(){
+                var bubble = $(this).parent().parent().find('.sliderValue span');
+                bubble.text($(this).val());
+                bubble.addClass('show');
+                bubble.css('left', $(this).val() / 2 + '%');
+            });
+            
+            $('input[type="range"]').on('blur', function(){
+                $(this).parent().parent().find('.sliderValue span').removeClass('show');
+            });
+
+        });
+    </script>
+
+
+</body>
+
+</html>
