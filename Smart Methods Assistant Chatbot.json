@@ -1,0 +1,1280 @@
+{
+  "intents": [
+    {
+      "intent": "Otherlanguages",
+      "examples": [
+        {
+          "text": "any language"
+        },
+        {
+          "text": "can you speak english"
+        },
+        {
+          "text": "Eng"
+        },
+        {
+          "text": "Engli"
+        },
+        {
+          "text": "English"
+        },
+        {
+          "text": "English?"
+        },
+        {
+          "text": "French"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are you?"
+        },
+        {
+          "text": "Language"
+        },
+        {
+          "text": "إيطالي؟"
+        },
+        {
+          "text": "اسباني"
+        },
+        {
+          "text": "ايطالي"
+        },
+        {
+          "text": "تتكلم إنجليزي؟"
+        },
+        {
+          "text": "تتكلم فرنسي"
+        },
+        {
+          "text": "غير عربي"
+        },
+        {
+          "text": "لغات أخرى"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الإنجازات",
+      "examples": [
+        {
+          "text": "Achievements"
+        },
+        {
+          "text": "Achievements?"
+        },
+        {
+          "text": "Achievements؟"
+        },
+        {
+          "text": "إنجازات"
+        },
+        {
+          "text": "إنجازات؟"
+        },
+        {
+          "text": "إنجازاتكم؟"
+        },
+        {
+          "text": "انجازات"
+        },
+        {
+          "text": "ما الذي حققتموه؟"
+        },
+        {
+          "text": "ما الذي حققتموه خلال الفترة الماضية؟"
+        },
+        {
+          "text": "ماذا حققتكم"
+        },
+        {
+          "text": "ماذا حققتكم؟"
+        },
+        {
+          "text": "ما هي إنجازاتكم؟"
+        },
+        {
+          "text": "ماهي منجزاتكم"
+        },
+        {
+          "text": "منجزاتكم"
+        },
+        {
+          "text": "منجزاتكم؟"
+        },
+        {
+          "text": "وش حققتكم"
+        },
+        {
+          "text": "وش منجزاتكم؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الاسم",
+      "examples": [
+        {
+          "text": "اسم شركتكم؟"
+        },
+        {
+          "text": "اسم شركتكم وش؟"
+        },
+        {
+          "text": "اسمك"
+        },
+        {
+          "text": "الاسم"
+        },
+        {
+          "text": "ما هو اسم شركتكم؟"
+        },
+        {
+          "text": "ما هو اسمك"
+        },
+        {
+          "text": "ما هو اسمك؟"
+        },
+        {
+          "text": "ما هو اسمكم؟"
+        },
+        {
+          "text": "وش اسم شركتكم؟"
+        },
+        {
+          "text": "وش اسمك"
+        },
+        {
+          "text": "وش اسمك؟"
+        },
+        {
+          "text": "وش اسمكم"
+        },
+        {
+          "text": "وش هو اسمك"
+        },
+        {
+          "text": "وش هو اسمك؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "التدريب",
+      "examples": [
+        {
+          "text": "COOP"
+        },
+        {
+          "text": "أبغا أتدرب عندكم"
+        },
+        {
+          "text": "التدريب الصيفي"
+        },
+        {
+          "text": "برامج للطلاب؟"
+        },
+        {
+          "text": "تدربوني؟"
+        },
+        {
+          "text": "تدربوني عندكم؟"
+        },
+        {
+          "text": "تدريب"
+        },
+        {
+          "text": "تدريب تعاوني"
+        },
+        {
+          "text": "تدريب صيفي"
+        },
+        {
+          "text": "توفرون تدريب صيفي"
+        },
+        {
+          "text": "كيف أسجل في التدريب الصيفي؟"
+        },
+        {
+          "text": "متى التدريب الصيفي"
+        },
+        {
+          "text": "ممكن أتدرب عندكم؟"
+        },
+        {
+          "text": "هل عندكم تدريب"
+        },
+        {
+          "text": "هل عندكم تدريب؟"
+        },
+        {
+          "text": "هل عندكم تدريب صيفي؟"
+        },
+        {
+          "text": "هل متاح تدريب؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الترحيب",
+      "examples": [
+        {
+          "text": "أهلا"
+        },
+        {
+          "text": "أهلا وسهلا"
+        },
+        {
+          "text": "حياك"
+        },
+        {
+          "text": "كيف الحال؟"
+        },
+        {
+          "text": "مرحب"
+        },
+        {
+          "text": "مرحبًا"
+        },
+        {
+          "text": "مرححبا"
+        },
+        {
+          "text": "مساء الخير"
+        },
+        {
+          "text": "مساء النور"
+        },
+        {
+          "text": "هلا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "التعريف",
+      "examples": [
+        {
+          "text": "Smart Methods"
+        },
+        {
+          "text": "الأساليب الذكية"
+        },
+        {
+          "text": "ما هي شركتكم"
+        },
+        {
+          "text": "من أنتم؟"
+        },
+        {
+          "text": "من انتم"
+        },
+        {
+          "text": "من هي الأساليب الذكية؟"
+        },
+        {
+          "text": "وش تبيع"
+        },
+        {
+          "text": "وش تبيعون"
+        },
+        {
+          "text": "وش عندكم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "التواصل",
+      "examples": [
+        {
+          "text": "Contact"
+        },
+        {
+          "text": "Contact us"
+        },
+        {
+          "text": "إيميلكم؟"
+        },
+        {
+          "text": "البريد الإلكتروني"
+        },
+        {
+          "text": "الجوال"
+        },
+        {
+          "text": "رقم الجوال"
+        },
+        {
+          "text": "رقم الهاتف"
+        },
+        {
+          "text": "كيف أتواصل معكم"
+        },
+        {
+          "text": "كيف أتواصل معكم؟"
+        },
+        {
+          "text": "كيف اتواصل معكم"
+        },
+        {
+          "text": "كيف اكلمكم"
+        },
+        {
+          "text": "ممكن إيميلكم؟"
+        },
+        {
+          "text": "ممكن رقمكم؟"
+        },
+        {
+          "text": "ممكن وسيلة تواصل؟"
+        },
+        {
+          "text": "وسيلة تواصل مع الأساليب الذكية"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "التوظيف",
+      "examples": [
+        {
+          "text": "أبغا اشتغل عندكم"
+        },
+        {
+          "text": "أبغا وظيفة"
+        },
+        {
+          "text": "الفرص الوظيفية"
+        },
+        {
+          "text": "الفرص الوظيفية؟"
+        },
+        {
+          "text": "تشغلوني عندكم"
+        },
+        {
+          "text": "تكفون شغلوني"
+        },
+        {
+          "text": "توظيف"
+        },
+        {
+          "text": "توفرون فرص توظيف؟"
+        },
+        {
+          "text": "طفران"
+        },
+        {
+          "text": "عاطل وأدور وظيفة"
+        },
+        {
+          "text": "عمل"
+        },
+        {
+          "text": "عندكم وضايف"
+        },
+        {
+          "text": "عندكم وظايف"
+        },
+        {
+          "text": "عندكم وظايف؟"
+        },
+        {
+          "text": "ما هي الفرص الوظيفية"
+        },
+        {
+          "text": "وضيفة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الختام",
+      "examples": [
+        {
+          "text": "أستودعكم الله"
+        },
+        {
+          "text": "أوك"
+        },
+        {
+          "text": "شكرًا"
+        },
+        {
+          "text": "شكرًا لكم"
+        },
+        {
+          "text": "في أمان الله"
+        },
+        {
+          "text": "مع السلامة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الرؤية",
+      "examples": [
+        {
+          "text": "vision"
+        },
+        {
+          "text": "الرؤية"
+        },
+        {
+          "text": "رؤية"
+        },
+        {
+          "text": "رؤيتكم"
+        },
+        {
+          "text": "روية"
+        },
+        {
+          "text": "ما هي رؤية شركة الأساليب الذكية؟"
+        },
+        {
+          "text": "ما هي رؤيتكم؟"
+        },
+        {
+          "text": "وش رؤيتكم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الرسالة",
+      "examples": [
+        {
+          "text": "الرسالة"
+        },
+        {
+          "text": "الرسالة اللي تقدمونها"
+        },
+        {
+          "text": "رسالة شركة الأساليب الذكية"
+        },
+        {
+          "text": "رسالتكم"
+        },
+        {
+          "text": "رسالتكم؟"
+        },
+        {
+          "text": "رسالتكم وش"
+        },
+        {
+          "text": "ما هي الرسالة؟"
+        },
+        {
+          "text": "ماهي الرسالة التي تقدمونها؟"
+        },
+        {
+          "text": "ماهي الرسالة التي تقدمونها في شركة الأساليب الذكية"
+        },
+        {
+          "text": "ماهي رسالة شركة الأساليب الذكية؟"
+        },
+        {
+          "text": "ما هي رسالتكم؟"
+        },
+        {
+          "text": "وش رسالتكم"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "السلام",
+      "examples": [
+        {
+          "text": "السلام"
+        },
+        {
+          "text": "السلام عليكم"
+        },
+        {
+          "text": "السلام عليكم ورحمة الله"
+        },
+        {
+          "text": "السلام عليكم ورحمة الله وبركاته"
+        },
+        {
+          "text": "سلام"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "العملاء",
+      "examples": [
+        {
+          "text": "عملاء"
+        },
+        {
+          "text": "عملاء الأساليب الذكية"
+        },
+        {
+          "text": "عملائكم"
+        },
+        {
+          "text": "عملائكم؟"
+        },
+        {
+          "text": "مع من تعاملتم قبل كذا؟"
+        },
+        {
+          "text": "من عملائكم السابقين؟"
+        },
+        {
+          "text": "من هم عملائكم؟"
+        },
+        {
+          "text": "من هم عملائكم سابقٍا؟"
+        },
+        {
+          "text": "مين تعامل معكم؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "العنوان",
+      "examples": [
+        {
+          "text": "أحتاج أعرف فين موقعكم؟"
+        },
+        {
+          "text": "أحتاج أعرف موقعكم؟"
+        },
+        {
+          "text": "أين هو مقركم؟"
+        },
+        {
+          "text": "أين هو موقعكم؟"
+        },
+        {
+          "text": "أين يوجد مقر شركة الأساليب الذكية؟"
+        },
+        {
+          "text": "أين يوجد مقر شركتكم؟"
+        },
+        {
+          "text": "احتاج اعرف موقعكم وين"
+        },
+        {
+          "text": "احتاج اعرف موقعكم وين؟"
+        },
+        {
+          "text": "في مكة؟"
+        },
+        {
+          "text": "فين مكانكم؟"
+        },
+        {
+          "text": "فين موقعكم؟"
+        },
+        {
+          "text": "مقر شركتكم وين؟"
+        },
+        {
+          "text": "مقركم؟"
+        },
+        {
+          "text": "مكانكم؟"
+        },
+        {
+          "text": "ممكن أعرف مكانكم وين"
+        },
+        {
+          "text": "ممكن موقعكم؟"
+        },
+        {
+          "text": "موقعكم؟"
+        },
+        {
+          "text": "هل عندكم مقر؟"
+        },
+        {
+          "text": "وينكم"
+        },
+        {
+          "text": "وين مكانكم"
+        },
+        {
+          "text": "وين موقعكم؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سفير",
+      "examples": [
+        {
+          "text": "سفر"
+        },
+        {
+          "text": "سفراء"
+        },
+        {
+          "text": "سفراء الأساليب الذكية"
+        },
+        {
+          "text": "سفير"
+        },
+        {
+          "text": "سفيرات"
+        },
+        {
+          "text": "سفير الأساليب الذكية"
+        },
+        {
+          "text": "كيف أسجل كسفير"
+        },
+        {
+          "text": "ممكن أصير سفير معكم؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "نماذج",
+      "examples": [
+        {
+          "text": "أعمالكم؟"
+        },
+        {
+          "text": "روبوتاتكم؟"
+        },
+        {
+          "text": "ممكن أشوف شغلكم"
+        },
+        {
+          "text": "ممكن صور لشغلكم"
+        },
+        {
+          "text": "ممكن نماذج من أعمالكم؟"
+        },
+        {
+          "text": "نماذج من عملكم"
+        },
+        {
+          "text": "وروني شغلكم"
+        },
+        {
+          "text": "وش سويتم من روبوتات"
+        },
+        {
+          "text": "وش صنعتم"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "التدريب",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "يسعدنا الترحيب بطلاب وطالبات التدريب التعاوني من مختلف الجامعات السعودية، وللاطلاع على مزيد من التفاصيل قم بزيارة الرابط التالي:"
+              },
+              {
+                "text": "https://s-m.com.sa/c13.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#التدريب",
+      "dialog_node": "node_10_1628537674645",
+      "previous_sibling": "node_2_1628207331830"
+    },
+    {
+      "type": "standard",
+      "title": "التعريف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " نحن شركة الأساليب الذكية، وهي مؤسسة تجارية وطنية تأسست عام 2010 م مسجلة لدى وزارة التجارة ومتخصصة في المعدات الآلية والروبوت والذكاء الصناعي وتعتبر المنشأة التجارية الأولى من نوعها في خدمة الباحثين والمبتكرين في العالم العربي ومصنفة لدى مجلة فوربس العالمية كأحد أكثر الشركات ابداعا في المملكة العربية السعودية في أخر تصنيف عام \n2015.\n\n"
+              },
+              {
+                "text": "في شركة الأساليب الذكية، نقدم لك تحت سقف واحد\nكل ما يحتاجه المبتكر من الكترونيات و ميكانيكا و حقوق تسجيل ملكية الفكرة وبراءات الاختراع\n\nبالإضافة إلى ورش تدريبية و تفاعلية للمبتكرين والمخترعين."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#التعريف",
+      "dialog_node": "node_1_1628173180748",
+      "previous_sibling": "node_9_1628172747195"
+    },
+    {
+      "type": "standard",
+      "title": "سفير",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "يسعدنا انضمامك لنا في برنامج سفراء الأساليب الذكية، عبر التسجيل في النموذج التالي:"
+              },
+              {
+                "text": "https://www.s-m.com.sa/c/new.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#سفير",
+      "dialog_node": "node_1_1628539553607",
+      "previous_sibling": "node_5_1628539158806"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "بفضل الله حققنا منذ إنشاء الشركة العديد من الإنجازات، وكانت أهمها:"
+              },
+              {
+                "text": "• تسجيل، وتنفيذ 843 ابتكار."
+              },
+              {
+                "text": "• دعم 675 بحث علمي."
+              },
+              {
+                "text": "• تصنيع 36 روبوت."
+              },
+              {
+                "text": "• تصميم وتنفيذ 1675 دائرة إلكترونية."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#الإنجازات",
+      "dialog_node": "node_2_1628207331830",
+      "previous_sibling": "node_8_1628174919554"
+    },
+    {
+      "type": "standard",
+      "title": "التوظيف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "• نسعى لاستقطاب الكفاءات الوطنية المميزة، فضلاً زودنا بسيرتك الذاتية على البريد الإلكتروني التالي: job@s-m.com.sa."
+              },
+              {
+                "text": "• قم بكتابة مجال تخصصك بشكل واضح في عنوان الرسالة، مع ذكر كلمة توظيف، أو البحث عن عمل."
+              },
+              {
+                "text": "• الخطوة التالية: سيقوم أحد موظفينا بالتواصل معك خلال 48 ساعة في أيام العمل، وفي أوقات الدوام الرسمي من 9:00ص وحتى 5:00م."
+              },
+              {
+                "text": "نتطلع لانضمامك لنا، شكرًا لاهتمامك!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#التوظيف",
+      "dialog_node": "node_2_1628538065126",
+      "previous_sibling": "node_10_1628537674645"
+    },
+    {
+      "type": "standard",
+      "title": "العنوان",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "يقع مقر شركتنا الأساليب الذكية في مدينتي مكة المكرمة، ومدينة الرياض:"
+              },
+              {
+                "text": "• مقر الشركة بمكة المكرمة: جامعة أم القرى، شركة وادي مكة."
+              },
+              {
+                "text": "• مقر الشركة بالرياض: بطحاء قريش، المدينة الذكية."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#العنوان",
+      "dialog_node": "node_4_1628538929074",
+      "previous_sibling": "node_9_1628538676280"
+    },
+    {
+      "type": "standard",
+      "title": "العملاء",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "نتشرف بجميع شركاء نجاحنا، وأبرزهم:"
+              },
+              {
+                "text": "• جامعة الملك عبدالعزيز."
+              },
+              {
+                "text": "• جامعة طيبة."
+              },
+              {
+                "text": "• جامعة تبوك."
+              },
+              {
+                "text": "• جامعة الإمام عبدالرحمن بن فيصل."
+              },
+              {
+                "text": "• جامعة الجوف."
+              },
+              {
+                "text": "• جامعة الأميرة نورة بنت عبدالرحمن."
+              },
+              {
+                "text": "• جامعة المجمعة."
+              },
+              {
+                "text": "• موهبة."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#العملاء",
+      "dialog_node": "node_5_1628539158806",
+      "previous_sibling": "node_4_1628538929074"
+    },
+    {
+      "type": "standard",
+      "title": "الاسم",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "شركة الأساليب الذكية"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#الاسم",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1628538496052",
+      "previous_sibling": "node_7_1628165306481"
+    },
+    {
+      "type": "standard",
+      "title": "التحية",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "حياك الله"
+              },
+              {
+                "text": "هلا بك"
+              },
+              {
+                "text": "أهلاً وسهلاً"
+              },
+              {
+                "text": "أهلا بك"
+              },
+              {
+                "text": "مرحبًا بك"
+              },
+              {
+                "text": "هلا وغلا"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#الترحيب",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1628165306481",
+      "previous_sibling": "node_8_1628163207031"
+    },
+    {
+      "type": "standard",
+      "title": "الختام",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "سعدنا بتواصلك!"
+              },
+              {
+                "text": "في أمان الله"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#الختام",
+      "dialog_node": "node_7_1628541661152",
+      "previous_sibling": "node_8_1628539624423"
+    },
+    {
+      "type": "standard",
+      "title": "السلام",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "وعليكم السلام ورحمة الله وبركاته"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#السلام",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1628163207031",
+      "previous_sibling": "مرحبا"
+    },
+    {
+      "type": "standard",
+      "title": "الرؤية",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "أن نكون الممثل الأول في المملكة العربية السعودية لصناعة الروبوتات والذكاء الصناعي و أنظمة التحكم و الأتمتة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#الرؤية",
+      "dialog_node": "node_8_1628174919554",
+      "previous_sibling": "node_1_1628173180748"
+    },
+    {
+      "type": "standard",
+      "title": "نماذج",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "قمنا بالعمل على العديد من الروبوتات التي تخدم في المجالات الصناعية واللوجيستية، ومنها:"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "• روبوت خدمة العملاء",
+            "source": "https://s-m.com.sa/images/robot2.png",
+            "description": "لتقديم خدمة العملاء بشكل مميز يمكن برمجته ليقوم بجميع مهام موظف خدمة العملاء.",
+            "response_type": "image"
+          },
+          {
+            "title": "• روبوت تقديم القهوة",
+            "source": "https://s-m.com.sa/images/robot1.png",
+            "description": "لتقديم القهوة لضيوفك بطريقة مميزة وعصرية.",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#نماذج",
+      "dialog_node": "node_8_1628539624423",
+      "previous_sibling": "node_1_1628539553607"
+    },
+    {
+      "type": "standard",
+      "title": "لغات أخرى",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "المعذرة، أنا أتحدث العربية فقط!"
+              },
+              {
+                "text": "Sorry, I'm speaking Arabic only!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Otherlanguages",
+      "dialog_node": "node_9_1628172747195",
+      "previous_sibling": "node_6_1628538496052"
+    },
+    {
+      "type": "standard",
+      "title": "التواصل",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "نشكر لك اهتمامك للتواصل معنا:"
+              },
+              {
+                "text": "سنكون سعداء للغاية بتواصلك معنا عبر وسائل التواصل التالية:"
+              },
+              {
+                "text": "• البريد الإلكتروني: info@s-m.com.sa"
+              },
+              {
+                "text": "الجوال:  0580202718 "
+              },
+              {
+                "text": "• نموذج التواصل: https://s-m.com.sa/#con"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#التواصل",
+      "dialog_node": "node_9_1628538676280",
+      "previous_sibling": "node_2_1628538065126"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "السلام عليكم ورحمة الله وبركاته"
+              },
+              {
+                "text": "أهلاً وسهلاً، حياك!"
+              },
+              {
+                "text": "أنا أحمد، وسعيد جدًا بتواصلك معي!"
+              },
+              {
+                "text": "أمرني، كيف أقدر أساعدك؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "مرحبا",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_10_1628161862161"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "وعليكم السلام ورحمة الله وبركاته"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1628163207031",
+      "disabled": true,
+      "conditions": "#السلام",
+      "dialog_node": "response_10_1628164518563"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1628163207031",
+      "disabled": true,
+      "dialog_node": "response_10_1628164636260",
+      "previous_sibling": "response_10_1628164518563"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هلا بك زود"
+              },
+              {
+                "text": "هلا بك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1628165306481",
+      "disabled": true,
+      "conditions": "أهلا",
+      "dialog_node": "response_6_1628167554181"
+    },
+    {
+      "type": "standard",
+      "title": "أي شيء آخر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "لم أفهم، يمكنك محاولة اعادة الصياغة"
+              },
+              {
+                "text": "هل يمكنك اعادة صياغة عبارتك؟ أنا لا فهم"
+              },
+              {
+                "text": "لم أفهم قصدك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "أي شيء آخر",
+      "previous_sibling": "node_7_1628541661152",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "مرحبا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "السلام عليكم ورحمة الله وبركاته"
+              },
+              {
+                "text": "أهلاً وسهلاً، حياك!"
+              },
+              {
+                "text": "أنا أحمد، وسعيد جدًا بتواصلك معي!"
+              },
+              {
+                "text": "أمرني، كيف أقدر أساعدك؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "مرحبا"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": ":هل قصدت",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "كل ما سبق خطأ"
+    },
+    "human_agent_assist": {
+      "prompt": ":هل قصدت"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Smart Methods Assistant",
+  "language": "ar",
+  "description": "Customer Care Skill"
+}
